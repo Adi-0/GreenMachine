@@ -1,5 +1,0 @@
-{
-  "name": "Green Machine Demo",
-  "description": "A demo application to showcase automatic appliance control based on real-time carbon intensity data, aiming for carbon-neutral operation. This demo simulates backend logic and hardware interactions.",
-  "requestFramePermissions": []
-}
