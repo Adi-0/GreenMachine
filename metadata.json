@@ -1,0 +1,5 @@
+{
+  "name": "Green Machine",
+  "description": "An application to help users optimize appliance usage based on carbon intensity, earn points, and get energy-saving tips.",
+  "requestFramePermissions": []
+}
